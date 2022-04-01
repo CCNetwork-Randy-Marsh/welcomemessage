@@ -1,2 +1,1 @@
-# welcomemessage
-welcomemessage
+https://github.com/vilhelmprytz/pterodactyl-installer
