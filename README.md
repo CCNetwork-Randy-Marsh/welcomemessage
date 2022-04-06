@@ -1,1 +1,1 @@
-https://github.com/vilhelmprytz/pterodactyl-installer
+<a href="https://zap-hosting.com/a/b0a233bcb5709681c46099dc3610ca905749d817"><img src="https://zap-hosting.com/interface/download/images.php?type=affiliate&id=216448" alt="ZAP-Hosting Gameserver and Webhosting"></a>
